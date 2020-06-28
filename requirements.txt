@@ -1,0 +1,5 @@
+numpy==1.16.3
+scipy==1.1.0
+aif360==0.2.0
+Theano==1.0.4
+scikit_learn==0.22.1

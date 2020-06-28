@@ -1,0 +1,499 @@
+Charge,is_violent,is_drug,is_firearm,is_MinorInvolved,is_roadSafetyHazard,is_sexoffense,is_fraud,is_petty
+Abuse Without Great Harm,4,0,0,0,0,0,0,0
+Agg Abuse Elderlly/Disabled Adult,4,0,0,0,0,0,0,0
+Agg Assault W/int Com Fel Dome,4,0,0,0,0,0,0,0
+Agg Battery Cause Bodily,4,0,0,0,0,0,0,0
+Agg Battery Grt/Bod/Harm,4,0,0,0,0,0,0,0
+Agg Fleeing And Eluding,0,0,0,0,0,0,0,0
+Agg Fleeing and Eluding,0,0,0,0,0,0,0,0
+Agg Fleeing/Eluding High Speed,0,0,0,0,1,0,0,0
+Aggrav Battery w/Deadly Weapon,4,0,1,0,0,0,0,0
+Aggrav Child Abuse-Agg Battery,4,0,0,1,0,0,0,0
+Aggrav Child Abuse-Causes Harm,4,0,0,1,0,0,0,0
+Aggrav Stalking After Injunctn,4,0,0,0,0,0,0,1
+Aggravated Animal Cruelty,0,0,0,0,0,0,0,1
+Aggravated Assault,4,0,0,0,0,0,0,0
+Aggravated Assault W/Dead Weap,4,0,1,0,0,0,0,0
+Aggravated Assault W/dead Weap,4,0,1,0,0,0,0,0
+Aggravated Assault W/o Firearm,4,0,0,0,0,0,0,0
+Aggravated Assault w/Firearm,4,0,1,0,0,0,0,0
+Aggravated Battery,4,0,0,0,0,0,0,0
+Aggravated Battery (Firearm),4,0,1,0,0,0,0,0
+Aggravated Battery (Firearm/Actual Possession),4,0,1,0,0,0,0,0
+Aggravated Battery / Pregnant,4,0,0,1,0,0,0,0
+Aggravated Battery On 65/Older,4,0,0,0,0,0,0,0
+Aggravated Manslaughter Child,7,0,0,1,0,0,0,0
+Aggress/Panhandle/Beg/Solict,0,0,0,0,0,0,0,1
+Aide/Abet Prostitution Lewdness,0,0,0,0,0,1,0,0
+Aiding Escape,0,0,0,0,0,0,0,1
+Alcohol Bev Under Age Of 21,0,1,0,0,0,0,0,1
+Alcoholic Beverage Violation-FL,0,1,0,0,0,0,0,1
+Armed Kidnapping,5,0,1,0,0,0,0,0
+Armed Trafficking in Cannabis,0,0,1,0,0,0,0,0
+Arson II (Vehicle),0,0,0,0,0,0,0,0
+Arson in the First Degree,0,0,0,0,0,0,0,0
+Assault,4,0,0,0,0,0,0,0
+Assault Law Enforcement Officer,4,0,0,0,0,0,0,0
+Att Burgl Conv Occp,3,0,0,0,0,0,0,1
+Att Burgl Occp Dwelling,3,0,0,0,0,0,0,1
+Att Burgl Struc/Conv Dwel/Occp,3,0,0,0,0,0,0,1
+Att Burgl Unoccupied Dwel,3,0,0,0,0,0,0,1
+Att Robbery Sudd Snatch No Weap,5,0,0,0,0,0,0,1
+Att Tamper w/Physical Evidence,0,0,0,0,0,0,1,0
+Attempt Armed Burglary Dwell,3,0,1,0,0,0,0,1
+Attempt Burglary (Struct),3,0,0,0,0,0,0,1
+Attempt Murder in the First Degree,7,0,0,0,0,0,0,0
+Attempt Sexual Batt / Vict 12+,6,0,0,0,0,1,0,0
+Attempt/Solicitation/Conspiracy,0,0,0,0,0,0,0,1
+Attempted Aggravated Battery,4,0,0,0,0,0,0,0
+Attempted Burg/Convey/Unocc,4,0,0,0,0,0,0,1
+Attempted Burg/struct/unocc,3,0,0,0,0,0,0,1
+Attempted Deliv Control Subst,0,0,0,0,0,0,0,1
+Attempted Robbery  No Weapon,5,0,0,0,0,0,0,1
+Attempted Robbery  Weapon,5,0,1,0,0,0,0,1
+Attempted Robbery Firearm,5,0,1,0,0,0,0,1
+Batt/on a Specified Employee,4,0,0,0,0,0,0,0
+Battery,4,0,0,0,0,0,0,0
+Battery Emergency Care Provide,4,0,0,0,0,0,0,0
+Battery On A Person Over 65,4,0,0,0,0,0,0,0
+Battery On Fire Fighter,4,0,0,0,0,0,0,0
+Battery On Parking Enfor Speci,4,0,0,0,0,0,0,0
+Battery Spouse Or Girlfriend,4,0,0,0,0,0,0,0
+Battery on Law Enforc Officer,4,0,0,0,0,0,0,0
+Battery on a Person Over 65,4,0,0,0,0,0,0,0
+Bribery Athletic Contests,0,0,0,0,0,0,1,1
+Burgl Dwel/Struct/Convey Armed,3,0,0,0,0,0,0,1
+Burglary Assault/Battery Armed,3,0,1,0,0,0,0,1
+Burglary Conveyance Armed,3,0,1,0,0,0,0,1
+Burglary Conveyance Assault/Bat,3,0,1,0,0,0,0,1
+Burglary Conveyance Occupied,3,0,0,0,0,0,0,1
+Burglary Conveyance Unoccup,3,0,0,0,0,0,0,1
+Burglary Damage Property>$1000,3,0,0,0,0,0,0,1
+Burglary Dwelling Armed,3,0,1,0,0,0,0,1
+Burglary Dwelling Assault/Batt,3,0,0,0,0,0,0,1
+Burglary Dwelling Occupied,3,0,0,0,0,0,0,1
+Burglary Structure Armed,3,0,1,0,0,0,0,1
+Burglary Structure Assault/Batt,3,0,0,0,0,0,0,1
+Burglary Structure Occupied,3,0,0,0,0,0,0,1
+Burglary Structure Unoccup,3,0,0,0,0,0,0,1
+Burglary Unoccupied Dwelling,3,0,0,0,0,0,0,1
+Burglary With Assault/battery,3,0,0,0,0,0,0,1
+Carjacking w/o Deadly Weapon,3,0,0,0,0,0,0,1
+Carjacking with a Firearm,3,0,1,0,0,0,0,1
+Carry Open/Uncov Bev In Pub,0,0,0,0,0,0,0,1
+Carrying A Concealed Weapon,0,0,1,0,0,0,0,1
+Carrying Concealed Firearm,0,0,1,0,0,0,0,1
+Cash Item w/Intent to Defraud,0,0,0,0,0,0,1,1
+Cause Anoth Phone Ring Repeat,0,0,0,0,0,0,0,1
+Child Abuse,6,0,0,1,0,0,0,1
+Computer Pornography,0,0,0,0,0,1,0,1
+Consp Traff Oxycodone  4g><14g,0,2,0,0,0,0,0,0
+Consp to Traffic Methamphetamine,0,2,0,0,0,0,0,0
+Conspiracy Dealing Stolen Prop,0,0,0,0,0,0,0,1
+Consume Alcoholic Bev Pub,0,1,0,0,0,0,0,1
+Contradict Statement,0,0,0,0,0,0,0,1
+Contribute Delinquency Of A Minor,0,0,0,1,0,0,0,1
+Corrupt Public Servant,0,0,0,0,0,0,0,1
+Counterfeit Lic Plates/Sticker,0,0,0,0,0,0,1,1
+Create/Poss/Use Fictitious Personal ID Info,0,0,0,0,0,0,1,1
+Crim Attempt/Solic/Consp,0,0,0,0,0,0,0,1
+Crim Attempt/Solicit/Consp,0,0,0,0,0,0,0,1
+Crim Conspiracy 2nd Deg Felony,0,0,0,0,0,0,0,1
+Crim Use Of Personal Id Info,0,0,0,0,0,0,1,1
+Crim Use of Personal ID Info,0,0,0,0,0,0,1,1
+Crim/Transmit of HIV Virus,0,0,0,0,0,0,0,0
+Crimin Mischief Damage $1000+,0,0,0,0,0,0,1,1
+Criminal Attempt 2nd Deg Felon,0,0,0,0,0,0,1,0
+Criminal Mischief,0,0,0,0,0,0,1,1
+Criminal Mischief Damage <$200,0,0,0,0,0,0,1,1
+Criminal Mischief>$200<$1000,0,0,0,0,0,0,1,1
+Crlty Twrd Child Urge Oth Act,4,0,0,1,0,0,0,1
+Cruelty Toward Child,4,0,0,1,0,0,0,1
+Cruelty to Animals,0,0,0,0,0,0,0,1
+Culpable Negligence,0,0,0,0,0,0,0,1
+D.U.I. Serious Bodily Injury,0,0,0,0,1,0,0,0
+DOC/Cause Public Danger,0,0,0,0,0,0,0,1
+DUI - Enhanced,0,0,0,0,1,0,0,0
+DUI - Property Damage/Personal Injury,0,0,0,0,1,0,0,0
+DUI Blood Alcohol Above 0.20,0,1,0,0,0,0,0,0
+DUI Level 0.15 Or Minor In Veh,0,1,0,0,0,0,0,0
+DUI Property Damage,0,0,0,0,1,0,0,0
+DUI Property Damage/Injury,0,0,0,0,1,0,0,0
+DUI- Enhanced,0,0,0,0,1,0,0,0
+DUI/Property Damage/Persnl Inj,0,0,0,0,1,0,0,0
+DWI w/Inj Susp Lic / Habit Off,0,0,0,0,1,0,0,0
+DWLS Canceled Disqul 1st Off,0,0,0,0,1,0,0,0
+DWLS Child Support 1st Offense,0,0,0,1,1,0,0,0
+DWLS Fin Obligation 1stOfense,0,0,0,0,1,0,0,0
+DWLS Susp/Cancel Revoked,0,0,0,0,1,0,0,0
+Dealing In Stolen Property,0,0,0,0,0,0,1,0
+Dealing in Stolen Property,0,0,0,0,0,0,1,0
+Defraud To Obtain Food/Lodg,0,0,0,0,0,0,1,0
+Defrauding Innkeeper,0,0,0,0,0,0,1,0
+Defrauding Innkeeper $300/More,0,0,0,0,0,0,1,0
+Del Cannabis At/Near Park,0,2,0,0,0,0,0,0
+Del Cannabis For Consideration,0,2,0,0,0,0,0,0
+Del of JWH-250 2-Methox 1-Pentyl,0,2,0,0,0,0,0,0
+Deliver Alprazolam,0,2,0,0,0,0,0,0
+Deliver Cannabis,0,2,0,0,0,0,0,0
+Deliver Cannabis 1000FTChur,0,2,0,0,0,0,0,0
+Deliver Cannabis 1000FTSch,0,2,0,0,0,0,0,0
+Deliver Cocaine,0,2,0,0,0,0,0,0
+Deliver Cocaine 1000FT Church,0,2,0,0,0,0,0,0
+Deliver Cocaine 1000FT Park,0,2,0,0,0,0,0,0
+Deliver Cocaine 1000FT School,0,2,0,0,0,0,0,0
+Deliver Cocaine 1000FT Store,0,2,0,0,0,0,0,0
+Deliver Oxycodone,0,2,0,0,0,0,0,0
+Delivery Of Drug Paraphernalia,0,2,0,0,0,0,0,0
+Delivery of 5-Fluoro PB-22,0,2,0,0,0,0,0,0
+Delivery of Heroin,0,2,0,0,0,0,0,0
+Deposit Item W/I/Defraud,0,0,0,0,0,0,1,0
+Depriv LEO of Protect/Communic,0,0,0,0,0,0,0,0
+Discharge Firearm From Vehicle,0,0,1,0,1,0,0,0
+Discharge Firearm in Public/Res,0,0,1,0,0,0,0,0
+Disorderly Conduct,0,0,0,0,0,0,0,1
+Disorderly Intoxication,0,0,0,0,0,0,0,1
+Dispense Optical Dev w/out Prescr,0,0,0,0,0,0,0,1
+Disrupting School Function,0,0,0,1,0,0,0,1
+Domestic Battery By Stran,4,0,0,0,0,0,0,0
+Drivg While Lic Suspd/Revk/Can,0,0,0,0,1,0,0,0
+Driving License Suspended,0,0,0,0,1,0,0,0
+Driving Under The Influence,0,0,0,0,1,0,0,0
+Driving While Intoxicated,0,1,0,0,1,0,0,0
+Driving While License Revoked,0,0,0,0,1,0,0,0
+Escape,0,0,0,0,0,0,0,1
+Exhibition Weapon School Prop,0,0,1,1,0,0,0,0
+Expired DL More Than 6 Months,0,0,0,0,1,0,0,0
+Exposes Culpable Negligence,0,0,0,0,0,0,0,1
+Extradition/Defendants,0,0,0,0,0,0,0,1
+Fabricating Physical Evidence,0,0,0,0,0,0,1,1
+Fail Register Career Offender,0,0,0,0,0,0,0,1
+Fail Register Vehicle,0,0,0,0,1,0,0,1
+Fail Sex Offend Report Bylaw,0,0,0,0,0,1,0,1
+Fail Surrender Tag/Reg/DL,0,0,0,0,0,0,0,1
+Fail To Obey Police Officer,0,0,0,0,0,0,0,1
+Fail To Redeliv Hire/Leas Prop,0,0,0,0,0,0,0,1
+Fail To Redeliver Hire Prop,0,0,0,0,0,0,0,1
+Fail to Reg as Sexual Offender,0,0,0,0,0,1,0,1
+Failure To Pay Taxi Cab Charge,0,0,0,0,0,0,0,1
+Failure To Return Hired Vehicle,0,0,0,0,1,0,0,1
+False 911 Call,0,0,0,0,0,0,0,1
+False Bomb Report,0,0,0,0,0,0,0,1
+False Imprisonment,0,0,0,0,0,0,0,1
+False Info LEO During Invest,0,0,0,0,0,0,0,1
+False Motor Veh Insurance Card,0,0,0,0,1,0,0,1
+False Name By Person Arrest,0,0,0,0,0,0,0,1
+False Ownership Info/Pawn Item,0,0,0,0,0,0,0,1
+Falsely Impersonating Officer,0,0,0,0,0,0,0,1
+Fel Drive License Perm Revoke,0,0,0,0,1,0,0,1
+Felon in Pos of Firearm or Amm,0,0,1,0,0,0,0,0
+Felony Batt(Great Bodily Harm),4,0,0,0,0,0,0,0
+Felony Battery,4,0,0,0,0,0,0,0
+Felony Battery (Dom Strang),4,0,0,0,0,0,0,0
+Felony Battery w/Prior Convict,4,0,0,0,0,0,0,0
+Felony Committing Prostitution,0,0,0,0,0,1,0,0
+Felony DUI (level 3),0,0,0,0,1,0,0,0
+Felony DUI - Enhanced,0,0,0,0,1,0,0,0
+Felony Driving While Lic Suspd,0,0,0,0,1,0,0,0
+Felony Petit Theft,0,0,0,0,1,0,0,0
+Felony/Driving Under Influence,0,1,0,0,1,0,0,0
+Fighting/Baiting Animals,0,0,0,0,0,0,0,1
+Flee/Elude LEO-Agg Flee Unsafe,0,0,0,0,0,0,0,1
+Fleeing Or Attmp Eluding A Leo,0,0,0,0,0,0,0,1
+Fleeing or Eluding a LEO,0,0,0,0,0,0,0,1
+Forge Counterfeit Credit Card,0,0,0,0,0,0,1,0
+Forging Bank Bills/Promis Note,0,0,0,0,0,0,1,0
+Fraud Obtain Food or Lodging,0,0,0,0,0,0,1,0
+Fraudulent Use of Credit Card,0,0,0,0,0,0,1,0
+Gambling/Gamb Paraphernalia,0,0,0,0,0,0,0,1
+Giving False Crime Report,0,0,0,0,0,0,0,1
+Grand Theft (Motor Vehicle),1,0,0,0,1,0,0,0
+Grand Theft (motor Vehicle),1,0,0,0,1,0,0,0
+Grand Theft Dwell Property,1,0,0,0,1,0,0,0
+Grand Theft Firearm,2,0,1,0,1,0,0,0
+Grand Theft In The 3Rd Degree,1,0,0,0,1,0,0,0
+Grand Theft Unlawful Use CC,2,0,0,0,1,0,0,0
+Grand Theft in the 1st Degree,2,0,0,0,1,0,0,0
+Grand Theft in the 3rd Degree,2,0,0,0,1,0,0,0
+Grand Theft of a Fire Extinquisher,2,0,0,0,1,0,0,0
+Grand Theft of the 2nd Degree,2,0,0,0,1,0,0,0
+Grand Theft on 65 Yr or Older,2,0,0,0,1,0,0,0
+Harass Witness/Victm/Informnt,0,0,0,0,0,0,0,1
+Harm Public Servant Or Family,0,0,0,0,0,0,0,1
+Hiring with Intent to Defraud,0,0,0,0,0,0,1,0
+Impair/Impede Phone/Power Dwell,0,0,0,0,0,0,0,1
+Imperson Public Officer or Emplyee,0,0,0,0,0,0,0,1
+Impersonating Police Officer,0,0,0,0,0,0,0,1
+Insurance Fraud,0,0,0,0,0,0,1,0
+Interfere W/Traf Cont Dev RR,0,0,0,0,0,0,0,1
+Interfere With K9/Horses Duties,0,0,0,0,0,0,0,1
+Interference with Custody,0,0,0,1,0,0,0,1
+Intoxicated/Safety Of Another,0,1,0,0,0,0,0,1
+Introduce Contraband Into Jail,0,0,0,0,0,0,0,0
+Issuing a Worthless Draft,0,0,0,0,0,0,0,1
+Kidnapping,5,0,0,0,0,0,0,1
+Kidnapping / Domestic Violence,5,0,0,0,0,0,0,1
+Lease For Purpose Trafficking,0,0,0,0,0,0,0,1
+Leave Acc/Attend Veh/More $50,0,0,0,0,0,0,0,1
+Leave Accd/Attend Veh/Less $50,0,0,0,0,0,0,0,1
+Leaving Acc/Unattended Veh,0,0,0,0,0,0,0,1
+Leaving Scene Accident w/Death,0,0,0,0,0,0,0,1
+Leaving the Scene of Accident,0,0,0,0,0,0,0,1
+Lewd Act Presence Child 16-,0,0,0,1,0,1,0,0
+Lewd or Lascivious Exhibition,0,0,0,0,0,1,0,0
+Lewd or Lascivious Molestation,0,0,0,0,0,1,0,0
+Lewd/Lasc Battery Pers 12+/<16,4,0,0,0,0,1,0,0
+Lewd/Lasc Exhib Presence <16yr,0,0,0,0,0,1,0,0
+Lewd/Lasciv Molest Elder Persn,0,0,0,0,0,1,0,0
+Lewdness Violation,0,0,0,0,0,1,0,0
+License Suspended Revoked,0,0,0,0,0,0,0,1
+Littering,0,0,0,0,0,0,0,1
+Live on Earnings of Prostitute,0,0,0,0,0,0,0,1
+Lve/Scen/Acc/Veh/Prop/Damage,0,0,0,0,0,0,0,1
+Manage Busn W/O City Occup Lic,0,0,0,0,0,0,0,1
+Manslaughter W/Weapon/Firearm,7,0,1,0,0,0,0,0
+Manufacture Cannabis,0,2,0,0,0,0,0,0
+Misuse Of 911 Or E911 System,0,0,0,0,0,0,0,1
+Money Launder 100K or More Dols,0,0,0,0,0,0,1,0
+Murder 2nd Degree W/Deadly Wep,7,0,1,0,0,0,0,0
+Murder In 2nd Degree W/firearm,7,0,1,0,0,0,0,0
+Murder in 2nd Degree,7,0,0,0,0,0,0,0
+Murder in the First Degree,7,0,0,0,0,0,0,0
+Neglect Child / Bodily Harm,0,0,0,1,0,0,0,0
+Neglect Child / No Bodily Harm,0,0,0,1,0,0,0,0
+Neglect/Abuse Elderly Person,0,0,0,0,0,0,0,1
+Obscenity,0,0,0,0,0,0,0,1
+Obstruct Fire Equipment,0,0,0,0,0,0,0,1
+Obstruct Officer By Disguise,0,0,0,0,0,0,0,1
+Obstruct Officer W/Violence,4,0,0,0,0,0,0,1
+Obtain Control Substance By Fraud,0,0,0,0,0,0,1,1
+Obtain Property Worthless Check,0,0,0,0,0,0,0,1
+Offer Agree Secure For Lewd Act,0,0,0,0,0,1,0,1
+Offer Agree Secure/Lewd Act,0,0,0,0,0,1,0,1
+Offn Against Intellectual Prop,0,0,0,0,0,0,0,1
+Open Carrying Of Weapon,0,0,1,0,0,0,0,1
+Oper Motorcycle W/O Valid DL,0,0,0,0,1,0,0,1
+Operating W/O Valid License,0,0,0,0,1,0,0,1
+Opert With Susp DL 2nd Offens,0,0,0,0,1,0,0,1
+Organized Fraud,0,0,0,0,0,0,1,0
+PL/Unlaw Use Credit Card,0,0,0,0,0,0,1,0
+Petit Theft,0,0,0,0,0,0,0,1
+Petit Theft $100- $300,0,0,0,0,0,0,0,1
+Petit Theft Habitual Offender,0,0,0,0,0,0,0,1
+Petit Theft/ Prior Conviction,0,0,0,0,0,0,0,1
+Pos Cannabis W/I/D/S Near Worsh,0,1,0,0,0,0,0,0
+Pos Cannabis W/Intent Sel/Del,0,1,0,0,0,0,0,0
+Pos Gamma-Hydroxybutyric Acid,0,1,0,0,0,0,0,0
+Pos Methylenedioxymethcath W/I/D/S,0,1,0,0,0,0,0,0
+Poss Alprazolam W/int Sell/Del,0,1,0,0,0,0,0,0
+Poss Anti-Shoplifting Device,0,0,0,0,0,0,0,1
+Poss Cntrft Contr Sub w/Intent,0,1,0,0,0,0,0,1
+Poss Cocaine/Intent To Del/Sel,0,1,0,0,0,0,0,0
+Poss Contr Subst W/o Prescript,0,1,0,0,0,0,0,0
+Poss Counterfeit Payment Inst,0,1,0,0,0,0,1,0
+Poss Drugs W/O A Prescription,0,1,0,0,0,0,0,0
+Poss F/Arm Delinq,0,0,1,0,0,0,0,0
+Poss Firearm W/Altered ID#,0,0,1,0,0,0,0,0
+Poss Meth/Diox/Meth/Amp (MDMA),0,1,0,0,0,0,0,0
+Poss Of Controlled Substance,0,1,0,0,0,0,0,0
+Poss Of RX Without RX,0,1,0,0,0,0,0,0
+Poss Oxycodone W/Int/Sell/Del,0,1,0,0,0,0,0,0
+Poss Pyrrolidinobutiophenone,0,1,0,0,0,0,0,0
+Poss Pyrrolidinovalerophenone,0,1,0,0,0,0,0,0
+Poss Pyrrolidinovalerophenone W/I/D/S,0,1,0,0,0,0,0,0
+Poss Similitude of Drivers Lic,0,0,0,0,1,0,0,1
+Poss Tetrahydrocannabinols,0,1,0,0,0,0,0,0
+Poss Trifluoromethylphenylpipe,0,1,0,0,0,0,0,0
+Poss Unlaw Issue Driver Licenc,0,0,0,0,1,0,0,1
+Poss Unlaw Issue Id,0,0,0,0,0,0,0,1
+Poss Wep Conv Felon,0,0,0,0,0,0,0,1
+Poss of Cocaine W/I/D/S 1000FT Park,0,1,0,0,0,0,0,0
+Poss of Ethylone W/I/D/S,0,1,0,0,0,0,0,0
+Poss of Firearm by Convic Felo,0,0,1,0,0,0,0,1
+Poss of Firearm/Ammun/Dom Viol,0,0,1,0,0,0,0,1
+Poss of Methylethcathinone,0,1,0,0,0,0,0,0
+Poss/Sel/Del Cocaine 1000FT Chur,0,2,0,0,0,0,0,0
+Poss/Sell/Del Cocaine 1000FT Sch,0,2,0,0,0,0,0,0
+Poss/Sell/Del/Man Amobarbital,0,2,0,0,0,0,0,0
+Poss/Sell/Deliver Clonazepam,0,2,0,0,0,0,0,0
+Poss/pur/sell/deliver Cocaine,0,2,0,0,0,0,0,0
+Posses/Disply Susp/Revk/Frd DL,0,0,0,0,1,0,0,0
+Possess Altered Bills,0,0,0,0,0,0,0,1
+Possess Cannabis 1000FTSch,0,1,0,0,0,0,0,0
+Possess Cannabis/20 Grams Or Less,0,1,0,0,0,0,0,0
+Possess Controlled Substance,0,1,0,0,0,0,0,0
+Possess Countrfeit Credit Card,0,0,0,0,0,0,1,0
+Possess Drug Paraphernalia,0,1,0,0,0,0,0,0
+Possess Mot Veh W/Alt Vin #,0,0,0,0,1,0,0,1
+Possess Tobacco Product Under 18,0,0,0,0,0,0,0,1
+Possess Weapon On School Prop,0,0,1,1,0,0,0,0
+Possess w/I/Utter Forged Bills,0,0,0,0,0,0,0,1
+Possess/Use Weapon 1 Deg Felon,0,0,1,0,0,0,0,0
+Possession Burglary Tools,0,0,0,0,0,0,0,1
+Possession Child Pornography,0,0,0,0,0,1,0,0
+Possession Firearm School Prop,0,0,1,0,0,0,0,0
+Possession Of Alcohol Under 21,0,0,0,0,0,0,0,1
+Possession Of Alprazolam,0,1,0,0,0,0,0,0
+Possession Of Amphetamine,0,1,0,0,0,0,0,0
+Possession Of Anabolic Steroid,0,1,0,0,0,0,0,0
+Possession Of Buprenorphine,0,1,0,0,0,0,0,0
+Possession Of Carisoprodol,0,1,0,0,0,0,0,0
+Possession Of Clonazepam,0,1,0,0,0,0,0,0
+Possession Of Cocaine,0,1,0,0,0,0,0,0
+Possession Of Diazepam,0,1,0,0,0,0,0,0
+Possession Of Fentanyl,0,1,0,0,0,0,0,0
+Possession Of Heroin,0,1,0,0,0,0,0,0
+Possession Of Lorazepam,0,1,0,0,0,0,0,0
+Possession Of MDMA W/I/D/S,0,1,0,0,0,0,0,0
+Possession Of Methamphetamine,0,1,0,0,0,0,0,0
+Possession Of Oxymorphone,0,1,0,0,0,0,0,0
+Possession Of Paraphernalia,0,1,0,0,0,0,0,0
+Possession Of Phentermine,0,1,0,0,0,0,0,0
+Possession of Alcohol Under 21,0,0,0,0,0,0,0,1
+Possession of Benzylpiperazine,0,1,0,0,0,0,0,0
+Possession of Butylone,0,1,0,0,0,0,0,0
+Possession of Cannabis,0,1,0,0,0,0,0,0
+Possession of Cocaine,0,1,0,0,0,0,0,0
+Possession of Codeine,0,1,0,0,0,0,0,0
+Possession of Ethylone,0,1,0,0,0,0,0,0
+Possession of Hydrocodone,0,1,0,0,0,0,0,0
+Possession of Hydromorphone,0,1,0,0,0,0,0,0
+Possession of LSD,0,1,0,0,0,0,0,0
+Possession of Methadone,0,1,0,0,0,0,0,0
+Possession of Morphine,0,1,0,0,0,0,0,0
+Possession of Oxycodone,0,1,0,0,0,0,0,0
+Possession of XLR11,0,1,0,0,0,0,0,0
+Present Proof of Invalid Insur,0,0,0,0,0,0,0,0
+Principal In The First Degree,0,0,0,0,0,0,0,1
+Procure For Prostitution,0,0,0,0,0,1,0,0
+Prostitution,0,0,0,0,0,1,0,0
+Prostitution/Lewd Act Assignation,0,0,0,0,0,1,0,0
+Prostitution/Lewdness/Assign,0,0,0,0,0,1,0,0
+Prowling/Loitering,0,0,0,0,0,0,0,1
+Purchase Cannabis,0,1,0,0,0,0,0,0
+Purchase Of Cocaine,0,1,0,0,0,0,0,0
+Purchase/P/W/Int Cannabis,0,1,0,0,0,0,0,0
+Purchasing Of Alprazolam,0,1,0,0,0,0,0,0
+Reckless Display Of Weapon,0,0,1,0,0,0,0,0
+Reckless Driving,0,0,0,0,1,0,0,0
+Reduced/Amended to Reckless Driving,0,0,0,0,1,0,0,0
+Refuse Submit Blood/Breath Test,0,0,0,0,0,0,0,1
+Refuse to Supply DNA Sample,0,0,0,0,0,0,0,1
+Remove Cart/Retail Estab,0,0,0,0,0,0,0,1
+Resist Officer w/Violence,0,0,0,0,0,0,0,0
+Resist/Obstruct W/O Violence,0,0,0,0,0,0,0,1
+Resisting W/O Violence,0,0,0,0,0,0,0,1
+Restraining Order Dating Viol,0,0,0,0,0,0,0,1
+Retail Theft $300 1st Offense,0,0,0,0,0,0,0,1
+Retail Theft $300 2nd Offense,0,0,0,0,0,0,0,1
+Ride Tri-Rail Without Paying,0,0,0,0,0,0,0,1
+Robbery / No Weapon,5,0,0,0,0,0,0,1
+Robbery / Weapon,5,0,1,0,0,0,0,1
+Robbery Sudd Snatch No Weapon,5,0,0,0,0,0,0,1
+Robbery W/Deadly Weapon,5,0,1,0,0,0,0,1
+Robbery W/Firearm,5,0,1,0,0,0,0,1
+Sale/Del Cannabis At/Near Scho,0,0,0,0,0,0,0,0
+Sale/Del Cocaine Child Care Fac,0,0,0,0,0,0,0,0
+Sale/Del Counterfeit Cont Subs,0,0,0,0,0,0,0,0
+Sel Etc/Pos/w/Int Contrft Schd,0,2,0,0,0,0,0,0
+Sel/Pur/Mfr/Del Control Substa,0,2,0,0,0,0,0,0
+Sell Cannabis 1000FTChur,0,2,0,0,0,0,0,0
+Sell Cocaine,0,2,0,0,0,0,0,0
+Sell Conterfeit Cont Substance,0,2,0,0,0,0,0,0
+Sell or Offer for Sale Counterfeit Goods,0,2,0,0,0,0,0,0
+Sell/Man/Del Pos/w/int Heroin,0,2,0,0,0,0,0,0
+Sex Batt Faml/Cust Vict 12-17Y,6,0,0,1,0,1,0,0
+Sex Battery Deft 18+/Vict 11-,6,0,0,0,0,1,0,0
+Sex Offender Fail Comply W/Law,0,0,0,0,0,1,0,0
+Sexual Battery / Vict 12 Yrs +,6,0,0,1,0,1,0,0
+Sexual Performance by a Child,0,0,0,1,0,1,0,0
+Shoot In Occupied Dwell,0,0,1,0,0,0,0,0
+Shoot Into Aircraft,0,0,1,0,0,0,0,0
+Shoot Into Vehicle,0,0,1,0,1,0,0,0
+Simulation of Legal Process,0,0,0,0,0,0,0,1
+Solic to Commit Battery,0,0,0,0,0,0,0,1
+Solicit Deliver Cocaine,0,0,0,0,0,0,0,1
+Solicit ProstitutionViolation,0,0,0,0,0,1,0,1
+Solicit Purchase Cocaine,0,1,0,0,0,0,0,1
+Solicit To Deliver Cocaine,0,2,0,0,0,0,0,1
+Solicitation On Felony 3 Deg,0,0,0,0,0,0,0,1
+Soliciting For Prostitution,0,0,0,0,0,1,0,1
+Sound Articles Over 100,0,0,0,0,0,0,0,1
+Stalking,0,0,0,0,0,0,0,1
+Stalking (Aggravated),0,0,0,0,0,0,0,1
+Strong Armed  Robbery,5,0,1,0,0,0,0,1
+Structuring Transactions,0,0,0,0,0,0,0,1
+Susp Drivers Lic 1st Offense,0,0,0,0,1,0,0,0
+Tamper With Victim,0,0,0,0,0,0,0,1
+Tamper With Witness,0,0,0,0,0,0,0,1
+Tamper With Witness/Victim/CI,0,0,0,0,0,0,0,1
+Tampering With A Victim,0,0,0,0,0,0,0,1
+Tampering With Physical Evidence,0,0,0,0,0,0,0,1
+Tampering with a Victim,0,0,0,0,0,0,0,1
+Temporary Tag,0,0,0,0,0,0,0,1
+Theft,0,0,0,0,0,0,0,1
+Theft of Trade Secrets,0,0,0,0,0,0,0,1
+Theft/To Deprive,0,0,0,0,0,0,0,1
+Threat Public Servant,0,0,0,0,0,0,0,1
+Threaten Throw Destruct Device,0,0,0,0,0,0,0,1
+Throw Deadly Missile Into Veh,0,0,1,0,0,0,0,0
+Throw In Occupied Dwell,0,0,0,0,0,0,0,0
+Throw Missile Into Pub/Priv Dw,0,0,1,0,0,0,0,0
+Traff In Cocaine <400g>150 Kil,0,2,0,0,0,0,0,0
+Traffic Cannabis/25-2000lbs,0,2,0,0,0,0,0,0
+Traffic Counterfeit Cred Cards,0,2,0,0,0,0,0,0
+Traffick Amphetamine 28g><200g,0,2,0,0,0,0,0,0
+Traffick Hydrocodone   4g><14g,0,2,0,0,0,0,0,0
+Traffick Oxycodone     4g><14g,0,2,0,0,0,0,0,0
+Trafficking In Cocaine 200-400,0,2,0,0,0,0,0,0
+Trafficking In Methamphetamine,0,2,0,0,0,0,0,0
+Trans/Harm/Material to a Minor,0,2,0,1,0,0,0,0
+Traveling to Meet a Minor,0,0,0,1,0,0,0,0
+Trespass,0,0,0,0,0,0,0,1
+Trespass After Warning,0,0,0,0,0,0,0,1
+Trespass On School Grounds,0,0,0,0,0,0,0,1
+Trespass Other Struct/Conve,0,0,0,0,0,0,0,1
+Trespass Private Property,0,0,0,0,0,0,0,1
+Trespass Property w/Dang Weap,0,0,1,0,0,0,0,1
+Trespass Struct/Convey Occupy,0,0,0,0,0,0,0,1
+Trespass Struct/Conveyance,0,0,0,0,0,0,0,1
+Trespass Structure w/Dang Weap,0,0,1,0,0,0,0,1
+Trespass Structure/Conveyance,0,0,0,0,0,0,0,1
+Trespass/Property/Other Structure,0,0,0,0,0,0,0,1
+Trespassing/Construction Site,0,0,0,0,0,0,0,1
+Tresspass Struct/Conveyance,0,0,0,0,0,0,0,1
+Tresspass in Structure or Conveyance,0,0,0,0,0,0,0,1
+Unauth C/P/S Sounds>1000/Audio,0,0,0,0,0,0,0,1
+Unauth Poss ID Card or DL,0,0,0,0,1,0,0,1
+Unauthor Copy of Sound Article,0,0,0,0,0,0,0,1
+Unauthorized Interf w/Railroad,0,0,0,0,0,0,0,1
+Unl/Disturb Education/Instui,0,0,0,0,0,0,0,1
+Unlaw Fail Secur Work Comp Ins,0,0,0,0,0,0,0,1
+Unlaw Lic Use/Disply Of Others,0,0,0,0,0,0,0,1
+Unlaw LicTag/Sticker Attach,0,0,0,0,0,0,0,1
+Unlaw Pos of Prson ID of another,0,0,0,0,0,0,0,1
+Unlaw Use False Name/Identity,0,0,0,0,0,0,0,1
+Unlawful Alter Of Tag,0,0,0,0,0,0,0,1
+Unlawful Conveyance of Fuel,0,0,0,0,0,0,0,1
+Unlawful Sexual Activity,0,0,0,0,0,1,0,1
+Unlawful Use Of Police Badges,0,0,0,0,0,0,0,1
+Unlicensed Telemarketing,0,0,0,0,0,0,0,1
+Use Computer for Child Exploit,0,0,0,1,0,0,0,1
+Use Of 2 Way Device To Fac Fel,0,0,0,0,0,0,0,1
+Use Scanning Device to Defraud,0,0,0,0,0,0,1,0
+Use of Anti-Shoplifting Device,0,0,0,0,0,0,0,1
+Uttering Forged Bills,0,0,0,0,0,0,1,0
+Uttering Forged Credit Card,0,0,0,0,0,0,1,0
+Uttering Worthless Check +$150,0,0,0,0,0,0,1,0
+Uttering a Forged Instrument,0,0,0,0,0,0,1,0
+Video Voyeur-<24Y on Child >16,0,0,0,1,0,0,0,0
+Viol Injunct Domestic Violence,0,0,0,0,0,0,0,0
+Viol Injunction Protect Dom Vi,0,0,0,0,0,0,0,0
+Viol Pretrial Release Dom Viol,0,0,0,0,0,0,0,0
+Viol Prot Injunc Repeat Viol,0,0,0,0,0,0,0,0
+Violation License Restrictions,0,0,0,0,1,0,0,1
+Violation Of Boater Safety Id,0,0,0,0,0,0,0,1
+Violation of Injunction Order/Stalking/Cyberstalking,0,0,0,0,0,0,0,0
+Voyeurism,0,0,0,0,0,1,0,0
+Wear Mask w/Commit Offense,0,0,0,0,0,0,0,1
+Workers Compensation Fraud,0,0,0,0,0,0,1,0
