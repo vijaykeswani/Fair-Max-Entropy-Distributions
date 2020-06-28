@@ -3,7 +3,7 @@
 This repository contains code for constructing and evaluating unbiased maximum-entropy distributions from biased datasets.
 
 The goal of constructing such distributions is to debias data from real-world sources. 
-In this repo, examples of evaluation with respect to Compas recidivism data and Adult income data are given.
+In this repository, examples of evaluation with respect to Compas recidivism data and Adult income data are given.
 The package requirements are provided in the requirements.txt file.
 
 ### Examples
@@ -22,8 +22,8 @@ The folder *FairMaxEnt* contains the backend code for constructing max-entropy d
 
 ### References
 
-*Data preprocessing to mitigate bias: A maximum entropy based approach*
-L. Elisa Celis, Vijay Keswani, Nisheeth K. Vishnoi
+*Data preprocessing to mitigate bias: A maximum entropy based approach* <br>
+L. Elisa Celis, Vijay Keswani, Nisheeth K. Vishnoi <br>
 International Conference on Machine Learning, ICML 2020
 
 **Please cite the corresponding paper when using the code**
